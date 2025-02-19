@@ -8,7 +8,7 @@ Explosives have been scattered throughout a laboratory on Saturn, and you play a
 
 When the character is moving you move quite fast in order to dodge enemies and quickly tranisiton from jumps and climbing. You can jump while moving, there’s a hard cut off at the end of the moving jump, it just forces you straight down rather than moving an an arc like one might expect so precision on where you want to land is important. The platforms are relatively close together, but far enough to indicate what’s a traversable jump and what’s not. 
 
-![Screenshot 2025-02-16 144631.png](platformer/Jumpman-Lives!.png)
+![Screenshot 2025-02-16 144631.png](Jumpman-Lives!.png)
 
 ## Cool Spot (1994)
 
