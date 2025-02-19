@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 695f2c28ab0a0544d8f9c8b01a06e7c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - paddles: {fileID: 4391737146074340205, guid: b74e44111d5a8e941b2688333dd8be6e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
