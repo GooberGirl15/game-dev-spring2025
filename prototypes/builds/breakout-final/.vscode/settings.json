@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Breakout Final v2.sln"
+    "dotnet.defaultSolution": "breakout-final.sln"
 }
