@@ -10,11 +10,9 @@ There are two cutscenes, the first one features you (the ball) and some friends 
 
 https://github.com/user-attachments/assets/109ed697-2e0f-4c3a-be31-6cea6af28a56
 
-[![Cutscene 1](Cutscene1.mp4)]
-[![Cutscene 2](Cutscene2.mp4)]
+https://github.com/user-attachments/assets/57090472-b02f-48eb-b79b-8209f4432b32
 
+https://github.com/user-attachments/assets/be0c293a-9fe2-47a8-b0a0-a2baab302f5e
 
-[![Level 1](Gameplay1.mp4)]
-[![Level 2](Gameplay2.mp4)]
-
+https://github.com/user-attachments/assets/6359bc39-af57-48ae-af5a-0f91a136c6ae
 
