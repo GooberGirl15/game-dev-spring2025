@@ -8,8 +8,12 @@ In the beginning of class I’d wanted to make a horror themed breakout game bas
 There are two cutscenes, the first one features you (the ball) and some friends talking before you go to get some milk from the fridge. The gameplay begins here and you have to break a path to the fridge. Once you hit the fridge the second cutscene begins as you walk back over to your friends and suddenly they’ve turned into clowns! Now your mission is to break out. The next level features a multiball power up and a timer. I’ve inserted the gameplay below.
 
 
+https://github.com/user-attachments/assets/109ed697-2e0f-4c3a-be31-6cea6af28a56
+
 [![Cutscene 1](Cutscene1.mp4)]
 [![Cutscene 2](Cutscene2.mp4)]
+
+
 [![Level 1](Gameplay1.mp4)]
 [![Level 2](Gameplay2.mp4)]
 
